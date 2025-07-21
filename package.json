@@ -29,6 +29,9 @@
   "scripts": {
     "test": "grunt test"
   },
+  "resolutions": {
+    "minimatch": "^3.0.2"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-casper": "~0.4.0",
